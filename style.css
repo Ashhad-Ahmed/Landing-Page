@@ -1,0 +1,333 @@
+header {
+    background: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
+    color: black;
+    padding: 20px;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 500px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+header h1 {
+    font-size: 60px;
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-style: inherit;
+}
+
+header p {
+    font-size: 35px;
+    margin: 0;
+    font-style: oblique;
+}
+h2 {
+    font-size: 30px; /* Change the font size as needed */
+    color: white; /* Change the text color as needed */
+    text-align: center; /* Center align the text */
+    margin-top: 20px; /* Add top margin to adjust spacing */
+    text-transform: uppercase; /* Convert text to uppercase */
+    font-weight: bold; /* Add bold font weight */ /* Add underline decoration */
+    font-style: oblique;
+    background: black
+}
+/* Bats link styles */
+a[href="#bats"] {
+    color: black;
+    font-weight: bold; /* Bold text for the "Bats" link */
+    text-shadow: horizontal-shadow vertical-shadow blur-radius color;/* Remove underline from the "Bats" link */
+    font-size: 35px;
+    font-style: inherit;
+    margin-right: 10px;
+    
+}
+
+/* Balls link styles */
+a[href="#balls"] {
+    color: black;
+    font-weight: bold; /* Bold text for the "Bats" link */
+    text-shadow: horizontal-shadow vertical-shadow blur-radius color;/* Remove underline from the "Bats" link */
+    font-size: 35px;
+    font-style: inherit;
+    margin-right: 10px;
+    
+}
+
+/* Gloves link styles */
+a[href="#gloves"] {
+    color: black;
+    font-weight: bold; /* Bold text for the "Bats" link */
+    text-shadow: horizontal-shadow vertical-shadow blur-radius color;/* Remove underline from the "Bats" link */
+    font-size: 35px;
+    font-style: inherit;
+    margin-right: 10px;
+}
+
+/* Other accessories link styles */
+a[href="#Other accessories"] {
+    color: black;
+    font-weight: bold; /* Bold text for the "Bats" link */
+    text-shadow: horizontal-shadow vertical-shadow blur-radius color;/* Remove underline from the "Bats" link */
+    font-size: 35px;
+    font-style: inherit;
+    margin-right: 20px;
+}
+/* CSS */
+.bat-one {
+    border: 2px solid #333; /* Border color and thickness */
+    border-radius: 30px; /* Border radius to make it rounded */
+    box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.2); /* Box shadow for a subtle lift */
+    max-width: 100%; /* To ensure the image doesn't exceed its container's width */
+    margin-right: 20px;
+  }
+  /* HTML element ko select kare */
+.bat-two {
+    border: 2px solid #333; /* Border color and thickness */
+    border-radius: 30px; /* Border radius to make it rounded */
+    box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.2); /* Box shadow for a subtle lift */
+    max-width: 100%; /* To ensure the image doesn't exceed its container's width */
+    margin-right: 20px;
+}
+  .bat-three {
+    border: 2px solid #333; /* Border color and thickness */
+    border-radius: 30px; /* Border radius to make it rounded */
+    box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.2); /* Box shadow for a subtle lift */
+    max-width: 100%; /* To ensure the image doesn't exceed its container's width */
+    margin-right: 20px;
+    background-color: #ff0000; /* Example: Red background color */
+  }
+  .bat-four {
+    border: 2px solid #333; /* Border color and thickness */
+    border-radius: 30px; /* Border radius to make it rounded */
+    box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.2); /* Box shadow for a subtle lift */
+    max-width: 100%; /* To ensure the image doesn't exceed its container's width */
+    margin-right: 20px;
+    background-color: #ff0000; /* Example: Red background color */
+  }      
+  .bat-five {
+    border: 2px solid #333; /* Border color and thickness */
+    border-radius: 30px; /* Border radius to make it rounded */
+    box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.2); /* Box shadow for a subtle lift */
+    max-width: 100%; /* To ensure the image doesn't exceed its container's width */
+    margin-right: 20px;
+    background-color: #ff0000; /* Example: Red background color */
+  }
+  .bat-six {
+    border: 2px solid #333; /* Border color and thickness */
+    border-radius: 30px; /* Border radius to make it rounded */
+    box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.2); /* Box shadow for a subtle lift */
+    max-width: 100%; /* To ensure the image doesn't exceed its container's width */
+    margin-right: 20px;
+    background-color: #ff0000; /* Example: Red background color */
+    margin-top: 50px;
+  }
+  .ball-one {
+    border: 2px solid #333; /* Border color and thickness */
+    border-radius: 30px; /* Border radius to make it rounded */
+    box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.2); /* Box shadow for a subtle lift */
+    max-width: 100%; /* To ensure the image doesn't exceed its container's width */
+    margin-right: 20px;
+    background-color: #ff0000; /* Example: Red background color */
+    margin-top: 50px;
+  }
+  .ball-two {
+    border: 2px solid #333; /* Border color and thickness */
+    border-radius: 30px; /* Border radius to make it rounded */
+    box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.2); /* Box shadow for a subtle lift */
+    max-width: 100%; /* To ensure the image doesn't exceed its container's width */
+    margin-right: 20px;
+    background-color: #ff0000; /* Example: Red background color */
+    margin-top: 50px;
+  }
+  .ball-three {
+    border: 2px solid #333; /* Border color and thickness */
+    border-radius: 30px; /* Border radius to make it rounded */
+    box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.2); /* Box shadow for a subtle lift */
+    max-width: 100%; /* To ensure the image doesn't exceed its container's width */
+    margin-right: 20px;
+    background-color: #ff0000; /* Example: Red background color */
+    margin-top: 50px;
+  }
+  .ball-four {
+    border: 2px solid #333; /* Border color and thickness */
+    border-radius: 30px; /* Border radius to make it rounded */
+    box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.2); /* Box shadow for a subtle lift */
+    max-width: 100%; /* To ensure the image doesn't exceed its container's width */
+    margin-right: 20px;
+    background-color: #ff0000; /* Example: Red background color */
+    margin-top: 50px;
+  }
+  .ball-five {
+    border: 2px solid #333; /* Border color and thickness */
+    border-radius: 30px; /* Border radius to make it rounded */
+    box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.2); /* Box shadow for a subtle lift */
+    max-width: 100%; /* To ensure the image doesn't exceed its container's width */
+    margin-right: 20px;
+    background-color: #ff0000; /* Example: Red background color */
+    margin-top: 50px;
+  }
+  .gloves-one {
+    border: 2px solid #333; /* Border color and thickness */
+    border-radius: 30px; /* Border radius to make it rounded */
+    box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.2); /* Box shadow for a subtle lift */
+    max-width: 100%; /* To ensure the image doesn't exceed its container's width */
+    margin-right: 20px;
+    background-color: #ff0000; /* Example: Red background color */
+    margin-top: 50px;
+  }
+  .gloves-two {
+    border: 2px solid #333; /* Border color and thickness */
+    border-radius: 30px; /* Border radius to make it rounded */
+    box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.2); /* Box shadow for a subtle lift */
+    max-width: 100%; /* To ensure the image doesn't exceed its container's width */
+    margin-right: 20px;
+    background-color: #ff0000; /* Example: Red background color */
+    margin-top: 50px;
+  }
+  .gloves-three {
+    border: 2px solid #333; /* Border color and thickness */
+    border-radius: 30px; /* Border radius to make it rounded */
+    box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.2); /* Box shadow for a subtle lift */
+    max-width: 100%; /* To ensure the image doesn't exceed its container's width */
+    margin-right: 20px;
+    background-color: #ff0000; /* Example: Red background color */
+    margin-top: 50px;
+  }
+  .gloves-four {
+    border: 2px solid #333; /* Border color and thickness */
+    border-radius: 30px; /* Border radius to make it rounded */
+    box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.2); /* Box shadow for a subtle lift */
+    max-width: 100%; /* To ensure the image doesn't exceed its container's width */
+    margin-right: 20px;
+    background-color: #ff0000; /* Example: Red background color */
+    margin-top: 50px;
+  }
+  .gloves-five {
+    border: 2px solid #333; /* Border color and thickness */
+    border-radius: 30px; /* Border radius to make it rounded */
+    box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.2); /* Box shadow for a subtle lift */
+    max-width: 100%; /* To ensure the image doesn't exceed its container's width */
+    margin-right: 20px;
+    background-color: #ff0000; /* Example: Red background color */
+    margin-top: 50px;
+  }
+  .one {
+    border: 2px solid #333; /* Border color and thickness */
+    border-radius: 30px; /* Border radius to make it rounded */
+    box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.2); /* Box shadow for a subtle lift */
+    max-width: 100%; /* To ensure the image doesn't exceed its container's width */
+    margin-right: 20px;
+    background-color: #ff0000; /* Example: Red background color */
+    margin-top: 50px;
+  }
+  .two {
+    border: 2px solid #333; /* Border color and thickness */
+    border-radius: 30px; /* Border radius to make it rounded */
+    box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.2); /* Box shadow for a subtle lift */
+    max-width: 100%; /* To ensure the image doesn't exceed its container's width */
+    margin-right: 20px;
+    background-color: #ff0000; /* Example: Red background color */
+    margin-top: 50px;
+  }
+  .three {
+    border: 2px solid #333; /* Border color and thickness */
+    border-radius: 30px; /* Border radius to make it rounded */
+    box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.2); /* Box shadow for a subtle lift */
+    max-width: 100%; /* To ensure the image doesn't exceed its container's width */
+    margin-right: 20px;
+    background-color: #ff0000; /* Example: Red background color */
+    margin-top: 50px;
+  }
+  .four {
+    border: 2px solid #333; /* Border color and thickness */
+    border-radius: 30px; /* Border radius to make it rounded */
+    box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.2); /* Box shadow for a subtle lift */
+    max-width: 100%; /* To ensure the image doesn't exceed its container's width */
+    margin-right: 20px;
+    background-color: #ff0000; /* Example: Red background color */
+    margin-top: 50px;
+  }
+  .five {
+    border: 2px solid #333; /* Border color and thickness */
+    border-radius: 30px; /* Border radius to make it rounded */
+    box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.2); /* Box shadow for a subtle lift */
+    max-width: 100%; /* To ensure the image doesn't exceed its container's width */
+    margin-right: 20px;
+    background-color: #ff0000; /* Example: Red background color */
+    margin-top: 50px;
+  }
+  .six {
+    border: 2px solid #333; /* Border color and thickness */
+    border-radius: 30px; /* Border radius to make it rounded */
+    box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.2); /* Box shadow for a subtle lift */
+    max-width: 100%; /* To ensure the image doesn't exceed its container's width */
+    margin-right: 20px;
+    background-color: #ff0000; /* Example: Red background color */
+    margin-top: 50px;
+  }
+  .seven {
+    border: 2px solid #333; /* Border color and thickness */
+    border-radius: 30px; /* Border radius to make it rounded */
+    box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.2); /* Box shadow for a subtle lift */
+    max-width: 100%; /* To ensure the image doesn't exceed its container's width */
+    margin-right: 20px;
+    background-color: #ff0000; /* Example: Red background color */
+    margin-top: 50px;
+  }
+  .eight {
+    border: 2px solid #333; /* Border color and thickness */
+    border-radius: 30px; /* Border radius to make it rounded */
+    box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.2); /* Box shadow for a subtle lift */
+    max-width: 100%; /* To ensure the image doesn't exceed its container's width */
+    margin-right: 20px;
+    background-color: #ff0000; /* Example: Red background color */
+    margin-top: 50px;
+  }
+  .nine {
+    border: 2px solid #333; /* Border color and thickness */
+    border-radius: 30px; /* Border radius to make it rounded */
+    box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.2); /* Box shadow for a subtle lift */
+    max-width: 100%; /* To ensure the image doesn't exceed its container's width */
+    margin-right: 20px;
+    background-color: #ff0000; /* Example: Red background color */
+    margin-top: 50px;
+  }
+  .ten {
+    border: 2px solid #333; /* Border color and thickness */
+    border-radius: 30px; /* Border radius to make it rounded */
+    box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.2); /* Box shadow for a subtle lift */
+    max-width: 100%; /* To ensure the image doesn't exceed its container's width */
+    margin-right: 20px;
+    background-color: #ff0000; /* Example: Red background color */
+    margin-top: 50px;
+  }
+  .eleven {
+    border: 2px solid #333; /* Border color and thickness */
+    border-radius: 30px; /* Border radius to make it rounded */
+    box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.2); /* Box shadow for a subtle lift */
+    max-width: 100%; /* To ensure the image doesn't exceed its container's width */
+    margin-right: 20px;
+    background-color: #ff0000; /* Example: Red background color */
+    margin-top: 50px;
+  }
+  .centered-text {
+    text-align: center; /* Text ko center mein rakhne ke liye */
+    font-size: 24px; /* Text ki size badhane ke liye */
+  }
+  .contact-info {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    padding: 20px;
+    border: 10px solid #ddd;
+    border-radius: 40px;
+    max-width: 300px;
+    margin: 0 auto;
+    font-size: 30px;
+}
+
+#contact p{
+  font-size: medium;
+}
+
+  
+  
